@@ -1,0 +1,12 @@
+
+body {
+    background-color: #95a5a6;
+}
+
+.content {
+    background: white;
+    padding: 3%;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
